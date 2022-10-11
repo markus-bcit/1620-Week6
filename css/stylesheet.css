@@ -11,7 +11,7 @@ h2 + p{
 } */
 
 
-aa:link{
+a:link{
     color: black;
 }
 a:hover{
@@ -20,4 +20,6 @@ a:hover{
 a:visited{
     color: purple;
 }
-
+strong{
+    size: 2em;
+}
