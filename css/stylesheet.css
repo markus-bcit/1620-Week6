@@ -25,6 +25,9 @@ font-size: 1.2em;
 font-weight: bold;
 }
 
-body > a{
+[title="BCIT homepage"]{
     background-color: yellow;
 }
+.img p {
+    text-align: right;
+  }
