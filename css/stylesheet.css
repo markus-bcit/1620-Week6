@@ -10,7 +10,8 @@ h2 + p{
     list-style-type: none;
 } */
 
-a:link{
+
+aa:link{
     color: black;
 }
 a:hover{
@@ -19,3 +20,4 @@ a:hover{
 a:visited{
     color: purple;
 }
+
