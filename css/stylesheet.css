@@ -28,6 +28,10 @@ font-weight: bold;
 [title="BCIT homepage"]{
     background-color: yellow;
 }
-.img p {
-    text-align: right;
-  }
+img{
+    float: left;
+}
+.below {
+    clear: both;
+    text-align: below;
+}
