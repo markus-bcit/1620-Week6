@@ -20,6 +20,11 @@ a:hover{
 a:visited{
     color: purple;
 }
-strong{
-    size: 2em;
+ ul li:first-child::first-letter{
+font-size: 1.2em;
+font-weight: bold;
+}
+
+body > a{
+    background-color: yellow;
 }
